@@ -8,8 +8,8 @@
             "prodLink":"hotel.html"
         },
         {
-            "id":"yatch",
-            "prodName":"Yatch",
+            "id":"yacht",
+            "prodName":"Yacht",
             "imagePath":"icon_2.svg",
             "prodNameData":"serv2",
             "prodLink":"yatch.html"
