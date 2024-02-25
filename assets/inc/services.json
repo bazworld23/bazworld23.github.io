@@ -1,0 +1,32 @@
+{
+    "items":[
+        {
+            "id":"hospitality",
+            "prodName":"Hotel & hospitality",
+            "imagePath":"icon_1.svg",
+            "prodNameData":"serv1",
+            "prodLink":"hotel.html"
+        },
+        {
+            "id":"yatch",
+            "prodName":"Yatch",
+            "imagePath":"icon_2.svg",
+            "prodNameData":"serv2",
+            "prodLink":"yatch.html"
+        },
+        {
+            "id":"poof",
+            "prodName":"Poof",
+            "imagePath":"icon_3.svg",
+            "prodNameData":"serv3",
+            "prodLink":"poof.html"
+        },
+        {
+            "id":"repair",
+            "prodName":"Repair",
+            "imagePath":"icon_4.svg",
+            "prodNameData":"serv4",
+            "prodLink":"repair.html"
+        }
+    ]
+}
